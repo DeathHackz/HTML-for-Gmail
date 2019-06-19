@@ -9,7 +9,7 @@
 // @license       MIT
 // @homepageURL   https://deathhackz.github.io/HTML-for-Gmail
 // @supportURL    https://github.com/DeathHackz/HTML-for-Gmail/issues
-// @icon          https://github.com/DeathHackz/HTML-for-Gmail/raw/master/icon.png
+// @icon          https://raw.githubusercontent.com/DeathHackz/HTML-for-Gmail/master/iocn.png
 // @updateURL     https://raw.githubusercontent.com/DeathHackz/HTML-for-Gmail/master/src/HTML-for-Gmail.meta.js
 // @downloadURL   https://raw.githubusercontent.com/DeathHackz/HTML-for-Gmail/master/src/HTML-for-Gmail.user.js
 // @run-at        document-body
