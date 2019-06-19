@@ -5,10 +5,12 @@ This is a userscript that allows you to send HTML formatted emails through [Gmai
 # Screenshots
 
 ### Before:
+
 ![Before](https://raw.githubusercontent.com/DeathHackz/HTML-for-Gmail/master/screenshots/before.png)
 
 ### After:
-![After](https://raw.githubusercontent.com/DeathHackz/HTML-for-Gmail/master/screenshots/before.png)
+
+![After](https://raw.githubusercontent.com/DeathHackz/HTML-for-Gmail/master/screenshots/after.png)
 
 # Installation
 
